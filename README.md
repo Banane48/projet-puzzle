@@ -15,6 +15,7 @@ Durant ce projet, nous avons utilisé plusieurs composants pour réaliser ce pro
 Nous sommes passer par différentes étapes pour réaliser ce projet.
 * Création de pièces sur Onshape
 * Assemblage des pièces sur la machine
+* montage électronique
 * Création du code Arduino pour permettre à la machine de réaliser le puzzle
 * Création d'un code sur Python pour la détection de tag Aruco, nécessaire pour détecter les pièces du puzzle
 
